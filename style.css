@@ -1,0 +1,189 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+    border: #7e7e7e;
+    border-width: 15px;
+    border-style: solid;
+}
+#toppart{
+    height: 30px;
+    background-color: #b8b8b8;
+}
+#nav1 {
+    float: right;
+    padding: 8px;
+    
+}
+#nav1 a{
+    text-decoration: none;
+    font-size: 15px;
+
+}
+header{
+    clear: both;
+    width: 100%;
+}
+#logo{
+    float: left;
+    margin-left: 20px;
+}
+#Brand{
+    font-size: 40px;
+    font-weight: 600;
+}
+
+#nav2{
+    float: right ;
+   padding: 15px;
+    display: flex;
+}
+#nav2 a{
+    padding: 15px;
+    text-decoration: none;
+}
+.iconwords{
+    font-size: x-small;
+    text-align: center;
+}
+#imagebox{
+    display: block;
+    clear: both;
+    width: 100%;
+    height: 500px;
+    
+}
+#imagebox #image1{
+    display: block;
+    width: 100%;
+    height: 500px;
+    margin: 0 auto;
+
+}
+
+.words{
+    text-align: center;
+    margin:0;
+    padding: 35px;
+    background-color:#b8b8b8 ;
+    font-size: x-large;
+}
+.graywords{
+    
+    width: 100%;
+    text-align: center;
+    color: grey;
+}    
+#bigdiv{
+    display: inline-block;
+    height: 400px;
+}
+.wholediv{
+    width: 250px;
+    display: inline-block;
+    padding: 15px;
+   margin-left: 40px;
+   padding-bottom: 50px;
+   margin-top: 35px;
+   
+    
+}
+.divP{
+    word-break: break-all;
+    width: 250px;
+    margin-top: 15px;
+    font-size: 16px;
+    
+}
+.divword{
+    margin: 15px 0 15px 0;
+    font-weight: 600;
+}
+#beforethef{
+    text-align: left;
+    background-color: #c5c5c5;
+    height: 40px;
+    padding-top: 20px;
+}    
+#bigdiv2{
+    background-color:#b8b8b8 ;
+
+}
+.maindiv{
+    display: inline-block;
+    padding: 15px;
+    margin-top: 15px;
+    vertical-align: top;
+    margin-left:73px;
+}
+.divbody{
+    width: 220px;
+
+}
+.divtoppers{
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: large;
+    margin: auto auto 15px auto;
+}
+#divtextfix{
+    word-break: break-all;
+    line-height: 2.4;
+
+}
+#linkbody a{
+    display: block;
+    font-size: small;
+}
+.photo{
+    padding: 10px;
+    padding-left: 0;
+    padding-top: 0;
+}
+
+.spanfix{
+    font-size: small ;
+    font-weight: 500;
+}
+.divbody p{
+    font-weight: 600;
+}
+footer{
+    height: 50px;
+    background-color: #a7a7a7;
+    width: 100%;
+}
+#navfooter0{
+    float: left;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+#navfooter{
+    float: right;
+    margin-right: 20px;
+    display: flex;
+    margin-top: 10px;
+
+    
+}
+
+#navfooter a{
+padding: 8px;
+
+
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+#textlogo{
+    position: relative;
+    bottom: 65px;
+    left: 40px;
+}
+#logo2{
+    top: 15px;
+    right: 20px;
+
+}
